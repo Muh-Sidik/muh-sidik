@@ -1,10 +1,8 @@
 ![Aku Superman](https://res.cloudinary.com/sidiksel/image/upload/v1597734857/Untitled_enxomp.png)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=muh-sidik&count_private=true&show_icons=true&theme=algolia)](https://github.com/muh-sidik/github-readme-stats)
-
-<div align="center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muh-sidik&layout=compact&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
-<div>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=muh-sidik&show_icons=true&theme=algolia" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muh-sidik&layout=compact&theme=tokyonight" alt="languages" height="165">
+</p>
     
 <div align="center">
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
