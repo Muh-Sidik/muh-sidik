@@ -1,7 +1,5 @@
 ### Assalamualaikum 
 
-![Aku Superman](https://res.cloudinary.com/sidiksel/image/upload/v1597734857/Untitled_enxomp.png)
-
 <div align="center">
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="25" height="25"/>
